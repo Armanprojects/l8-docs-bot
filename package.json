@@ -1,0 +1,13 @@
+{
+  "name": "l8-docs-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for L8 DOCS demo requests",
+  "main": "api/demo.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
